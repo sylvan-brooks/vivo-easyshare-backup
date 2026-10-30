@@ -1,0 +1,8 @@
+{
+  "name": "vivo-easyshare-backup-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "classic-level": "^1.4.1"
+  }
+}
